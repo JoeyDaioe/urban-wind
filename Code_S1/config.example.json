@@ -1,0 +1,30 @@
+{
+  "inputs": {
+    "wind_city.csv": "data/wind_city.csv",
+    "Beck_KG_V1_present_0p083.tif": "data/Beck_KG_V1_present_0p083.tif",
+    "World_Countries_Generalized_South_Final.shp": "data/World_Countries_Generalized_South_Final.shp",
+    "World_Countries_Generalized_North_Final.shp": "data/World_Countries_Generalized_North_Final.shp",
+    "wind_speed_with_alpha_indices.csv": "data/wind_speed_with_alpha_indices.csv",
+    "df_city_info2_with_GAUL.csv": "data/df_city_info2_with_GAUL.csv",
+    "environment_city.csv": "data/environment_city.csv",
+    "Global_Average_10m_wind_speed__m_s__data.csv": "data/Global_Average_10m_wind_speed__m_s__data.csv",
+    "Northern_Countries_10m_wind_speed__m_s__data.csv": "data/Northern_Countries_10m_wind_speed__m_s__data.csv",
+    "Southern_Countries_10m_wind_speed__m_s__data.csv": "data/Southern_Countries_10m_wind_speed__m_s__data.csv",
+    "Global_Average_50m_wind_speed__m_s__data.csv": "data/Global_Average_50m_wind_speed__m_s__data.csv",
+    "Northern_Countries_50m_wind_speed__m_s__data.csv": "data/Northern_Countries_50m_wind_speed__m_s__data.csv",
+    "Southern_Countries_50m_wind_speed__m_s__data.csv": "data/Southern_Countries_50m_wind_speed__m_s__data.csv",
+    "Global_Average_100m_wind_speed__m_s__data.csv": "data/Global_Average_100m_wind_speed__m_s__data.csv",
+    "Northern_Countries_100m_wind_speed__m_s__data.csv": "data/Northern_Countries_100m_wind_speed__m_s__data.csv",
+    "Southern_Countries_100m_wind_speed__m_s__data.csv": "data/Southern_Countries_100m_wind_speed__m_s__data.csv",
+    "Global_Average_150m_wind_speed__m_s__data.csv": "data/Global_Average_150m_wind_speed__m_s__data.csv",
+    "Northern_Countries_150m_wind_speed__m_s__data.csv": "data/Northern_Countries_150m_wind_speed__m_s__data.csv",
+    "Southern_Countries_150m_wind_speed__m_s__data.csv": "data/Southern_Countries_150m_wind_speed__m_s__data.csv",
+    "Global_Average_200m_wind_speed__m_s__data.csv": "data/Global_Average_200m_wind_speed__m_s__data.csv",
+    "Northern_Countries_200m_wind_speed__m_s__data.csv": "data/Northern_Countries_200m_wind_speed__m_s__data.csv",
+    "Southern_Countries_200m_wind_speed__m_s__data.csv": "data/Southern_Countries_200m_wind_speed__m_s__data.csv",
+    "city_h01_primary_indicator.csv": "data/city_h01_primary_indicator.csv",
+    "environment_alpha.csv": "data/environment_alpha.csv",
+    "wind_final.csv": "data/wind_final.csv",
+    "fixed_thresholds_pm10_city_details.csv": "data/fixed_thresholds_pm10_city_details.csv"
+  }
+}

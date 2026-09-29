@@ -1,0 +1,15 @@
+numpy==2.3.5
+pandas==3.0.1
+matplotlib==3.11.2
+scipy==1.18.1
+seaborn==0.13.2
+geopandas==1.1.4
+cartopy==0.26.0
+rioxarray==0.23.0
+rasterio==1.5.1
+xarray==2026.7.0
+matplotlib-venn==1.1.2
+Pillow==12.3.0
+shapely==2.1.2
+pyproj==3.8.0
+pyogrio==0.13.0
